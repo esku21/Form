@@ -1,18 +1,18 @@
-# 📝 Simple HTML & CSS Form
+#  Simple HTML & CSS Form
 
 A clean and responsive form built with pure **HTML5** and **CSS3**.  
 This project is perfect for beginners learning web design and form styling.
 
 ---
 
-## 🎯 Features
+##  Features
 - ✅ Responsive layout (works on mobile & desktop)
 - 🎨 Styled with modern CSS (using flexbox or grid)
 - 💡 Easy to customize
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 
